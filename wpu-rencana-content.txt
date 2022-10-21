@@ -2,7 +2,9 @@ RENCANA KONTEN WPU
 
 - Javascript 
   *ES 6.
-  *Framework Javascript
+  *Framework Javascript 
+    >Vue    
+    .React
 - PHP Frameworks 
 - Interview 
 - Vlogs
