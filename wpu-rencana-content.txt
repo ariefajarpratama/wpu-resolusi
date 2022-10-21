@@ -4,7 +4,8 @@ RENCANA KONTEN WPU
   *ES 6.
   *Framework Javascript 
     >Vue    
-    .React
+    >React   
+- Struktur Data Dasar
 - PHP Frameworks 
 - Interview 
 - Vlogs
